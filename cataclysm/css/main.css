@@ -1,0 +1,58 @@
+/* Place CSS styles here */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: floralwhite;
+}
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:darkslategray;
+    background-color: rgb(186, 203, 196);
+}
+
+p{
+    margin: 10pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:rebeccapurple;
+
+}
+
+h2 {
+    font-size: 25px;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkslategray;
+    margin: 2.5%;
+}
+
+h3 {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkslategray;
+}
+
+ul {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rebeccapurple;
+   
+}
+
+a {
+    background-color:rebeccapurple;
+    padding: .5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    border-radius: 25px;
+    margin-left: 2.5%;
+    
+}
+
+
+
+
+
